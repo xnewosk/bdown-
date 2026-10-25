@@ -45,10 +45,10 @@ $AppList = @(
     @{ Name = "Steam";             Id = "Valve.Steam" }
 )
 
-$ManualNote = "Manual ahh Binary Ninja, Bitdefender, Autodesk Fusion, Python, .NET SDK, Java JDK.`r`n:) annas-archive.cc, getintopc.com, fmhy.net, massgrave.dev`r`nfirefox is better than brave btw chromium skin"
+$ManualNote = "Manual ahh Binary Ninja, Bitdefender, Autodesk Fusion, Python, .NET SDK, Java JDK.`r`nannas-archive.cc, getintopc.com, fmhy.net, massgrave.dev`r`n"
 
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "someone should stop shoving copilot into everything"
+$form.Text = "
 $form.Size = New-Object System.Drawing.Size(480, 700)
 $form.StartPosition = "CenterScreen"
 $form.FormBorderStyle = "FixedDialog"
